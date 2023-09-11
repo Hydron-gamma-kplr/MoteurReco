@@ -1,3 +1,13 @@
 - Connexion à databricks community edition "https://community.cloud.databricks.com/?o=5720802012497386#"
 
-- Téléchargement des datasets sur "https://grouplens.org/datasets/movielens/" "recommended for education and development"
+- Téléchargement du dataset sur "https://grouplens.org/datasets/movielens/" "recommended for education and development"
+
+- Configuration Admin Settings -> Workspace Settings -> "Web Terminal & DBFS 
+
+- Création d'un cluster "Exploratory Data Analysis"
+
+- importation des fichiers csv "links,movies,ratings,tags"
+
+- Création d'un notebook sur databricks "movie-reco-guide : Exploratory Data Analysis"
+
+-
